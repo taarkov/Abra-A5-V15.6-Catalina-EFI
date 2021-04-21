@@ -1,5 +1,6 @@
 # Abra A5 V15.6 Catalina
 ![](https://panels-images.twitch.tv/panel-411395947-image-e9d383f5-d696-4194-9d4d-63d11837d18a)
+
 Abra A5 V15.6 Catalina EFI
 
 My System Specs:
