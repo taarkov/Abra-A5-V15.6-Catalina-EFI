@@ -26,5 +26,5 @@ https://github.com/corpnewt/GenSMBIOS
 
 https://github.com/corpnewt/ProperTree
 
-**Warning**
+**Warning:**
 I've seen 99 celcius with Intel Power Gadget and other programs. Single Core reaches 4.9GHz and AVG 3~4 GHz. So, yeah, 10750H runs so hot on macOS!
