@@ -15,10 +15,13 @@ My System Specs:
 **Everything works!(Except NVIDIA, obv)** Yeah, you read right! Even my PM991! But how, right? I manage to copy my macOS from External HDD to PM991 disk and then used NVMeFix, HackrNVMeFamily and custom SSDT. 
 
 **So, you make sure change SSDT before boot like guide below(Yeah, you have to install macOS to compatible disk and then boot before for editing SSDT with MaciASL):**
+
 https://github.com/tylernguyen/x1c6-hackintosh/issues/43
 
 **And please make sure you changed your Serial ID, etc. You can do that with this:**
+
 https://github.com/corpnewt/GenSMBIOS
 
 **For editing your config file:**
+
 https://github.com/corpnewt/ProperTree
