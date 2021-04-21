@@ -12,7 +12,7 @@ My System Specs:
 - 256GB SAMSUNG PM991 M.2 SSD PCIe 3.0 x4 (2050 MB/s - 1000 MB/s)
 - Intel® Wi-Fi 6 AX201, 2x2 AX + Bluetooth 5.1 M.2 2230 (2,4 Gbps)
 
-**Everything works!** Yeah, you read right! Even my PM991! But how, right? I manage to copy my macOS from External HDD to PM991 disk and then used NVMeFix, HackrNVMeFamily and custom SSDT. 
+**Everything works!(Except NVIDIA, obv)** Yeah, you read right! Even my PM991! But how, right? I manage to copy my macOS from External HDD to PM991 disk and then used NVMeFix, HackrNVMeFamily and custom SSDT. 
 **So, you make sure change SSDT before boot like guide below(Yeah, you have to install macOS to compatible disk and then boot before for editing SSDT with MaciASL):**
 https://github.com/tylernguyen/x1c6-hackintosh/issues/43
 
